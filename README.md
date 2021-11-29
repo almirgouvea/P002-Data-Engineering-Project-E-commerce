@@ -4,7 +4,7 @@
 
 This repository contains web scraping of an e-commerce project. <br>
 
-The script below is a fictional creation focused on data collection, data cleaning, and data exploitation.
+The script below is a fictional creation focused on data collection and data cleaning.
 
 ## P002 - Data Engineering Project for an E-Commerce
 
@@ -58,6 +58,7 @@ Variable | Definition
 <br>
 
 ## 4. Solution Strategy
+
 My strategy to solve this challenge was:
 1. Understanding the business model 
 2. Understanding the business problem
@@ -69,6 +70,7 @@ My strategy to solve this challenge was:
 <br>
 
 * The data collection process focuses on:
+
    * Scrapy the website using Beautiful Soup
    * Collect product data considering the raw materials, types, colors, price and scrapy datetime
    * Generate style id and color id based on SKU (Stock Keeping Unit) 
