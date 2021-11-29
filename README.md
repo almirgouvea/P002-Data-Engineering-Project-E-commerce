@@ -65,7 +65,7 @@ My strategy to solve this challenge was:
 3. Collecting the data
 4. Cleaning the data
 5. Insert the data on a database
-6. Webscraping [script](https://github.com/almirgouvea/P002-Data-Engineering-Project-E-commerce/blob/main/webscraping_hm.py)
+6. Execute the webscraping [script](https://github.com/almirgouvea/P002-Data-Engineering-Project-E-commerce/blob/main/webscraping_hm.py)
 
 <br>
 
