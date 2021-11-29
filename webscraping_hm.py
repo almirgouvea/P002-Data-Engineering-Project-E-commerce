@@ -350,18 +350,4 @@ if __name__ == '__main__':
 	# data insertion
 	data_insert(data_product_cleaned)
 	logger.info('data insertion done')
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+	
